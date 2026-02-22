@@ -1,4 +1,9 @@
+<p align="center">
+  <h1 align="center">🏥 MediGrid AI</h1>
+  <p align="center">AI-Powered Prescription Digitization & Medical Assistant</p>
+</p>
 
+---
 # 🏥 MediGrid AI
 
 MediGrid AI is an AI-powered FastAPI web application that converts handwritten medical prescriptions into structured digital insights, detects critical warnings, stores records in SQLite database, and provides an integrated medical AI assistant.
