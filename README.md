@@ -3,7 +3,6 @@
   <p align="center">AI-Powered Prescription Digitization & Medical Assistant</p>
 </p>
 
----
 # 🏥 MediGrid AI
 
 MediGrid AI is an AI-powered FastAPI web application that converts handwritten medical prescriptions into structured digital insights, detects critical warnings, stores records in SQLite database, and provides an integrated medical AI assistant.
@@ -18,7 +17,7 @@ MediGrid AI is an AI-powered FastAPI web application that converts handwritten m
 - 📍 Location-based pharmacy suggestions
 - 💬 Integrated AI medical chat assistant
 - 🌐 REST API built using FastAPI
----
+
 ## 🖥️ Tech Stack
 
 - Backend: FastAPI
@@ -68,7 +67,7 @@ pip install -r requirements.txt
 6️⃣ Run FastAPI server
 
 uvicorn fast_api_file:api --reload
----
+
 ## 🔐 Environment Variables
 
 Create a `.env` file and add:
@@ -76,7 +75,7 @@ Create a `.env` file and add:
 GEMINI_API_KEY=your_api_key_here
 
 Make sure to load environment variables properly before running the server.
----
+
 
 ## 📡 API Endpoints
 
@@ -102,10 +101,6 @@ It does not replace professional medical consultation.
 ---
 ## 👨‍💻 Author
 
-Rohit Shinde  
-AI & Backend Developer  
-
-
 
 ## 📌 Usage
 
@@ -115,4 +110,6 @@ AI & Backend Developer
 4. Find nearby pharmacies
 5. Download digital report
 
----
+Rohit Shinde  
+AI & Backend Developer  
+
