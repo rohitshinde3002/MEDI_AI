@@ -27,7 +27,7 @@ MediGrid AI is an AI-powered FastAPI web application that converts handwritten m
 - Frontend: HTML, CSS (Static)
 - Server: Uvicorn
 - Data Validation: Pydantic
----
+
 ## 📂 Project Structure
 
 MediAI/
@@ -41,7 +41,6 @@ MediAI/
 │── requirements.txt
 │── .env
 │── README.md
----
 
 ## ⚙️ Installation
 
